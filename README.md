@@ -22,7 +22,7 @@ Right now I am learning Solidity, Brownie, Blockchain and Web3.</p>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/jbchoncen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbchoncen&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbchoncen&theme=highcontrast&show_icons=true"/>
 </a>
