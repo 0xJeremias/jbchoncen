@@ -1,3 +1,10 @@
+
+
+<p align="left">
+<a href="mailto:jbchoncen@gmail.com" ><img alt="Mail me" src="https://img.shields.io/badge/-email me!-D14836?&label=Gmail&logo=Gmail&style=social"/> </a>
+<a href="https://twitter.com/jbchoncen" ><img src="https://img.shields.io/twitter/follow/jbchoncen.svg?style=social" /> </a>
+<a href="https://www.linkedin.com/in/jeremiasblanco/" ><img alt="Follow Me!" src="https://img.shields.io/badge/-Follow Me!-D14836?&label=LinkedIn&logo=LinkedIn&style=social"/> </a>
+</p>
 <!--### Hi there 👋!!. I'm Jeremias!
 <p>Hello everyone!!. I'm just starting out in this world 🌱. Enthusiast of free software, Python, free Internet, Privacy, Arts and Music.
 Right now I am learning Solidity, Brownie, Blockchain and Web3.</p> 
